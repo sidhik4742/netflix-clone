@@ -1,7 +1,7 @@
 {
   "name": "netflix-clone",
   "version": "0.1.0",
-  "author": "Anurag Sharan",
+  "author": "Sidhik A Rahman",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
